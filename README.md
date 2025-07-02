@@ -5,12 +5,13 @@
 
 </div>
 
-<h1 align="center">Hi 👋, I'm Vipin Soni </h1>
-<p align="center">Data Enthusiast | MIS & BI Professional | Power BI Developer | Python Learner | Influencer Marketing Strategist</p>
-
----
+--
 
 ### 👨‍💻 About Me
+
+Hi 👋, I'm Vipin Soni
+
+Data Enthusiast | MIS & BI Professional | Power BI Developer | Python Learner | Influencer Marketing Strategist
 
 I'm an experienced data and business intelligence professional with **7+ years of experience** in **MIS, reporting, and data analysis**. I specialize in building interactive dashboards using **Power BI** and streamlining reporting processes that drive decision-making.
 
