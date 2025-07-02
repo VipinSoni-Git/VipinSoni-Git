@@ -48,8 +48,6 @@ Currently, I lead the **InfluenceZ** portal, where I manage influencer campaigns
 
 Link&nbsp;&nbsp;:&nbsp;&nbsp;[GitHub](https://github.com/VipinSoni-Git)
 
----
-
 ## 🌱 Currently Learning
 
 - 🐍 Python for Data Analysis
