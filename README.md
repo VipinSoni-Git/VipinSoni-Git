@@ -15,7 +15,7 @@ I'm an experienced data and business intelligence professional with **7+ years o
 
 Currently, I lead the **InfluenceZ** portal, where I manage influencer campaigns, track KPIs, and bridge creative marketing with analytical insights.
 
-### 🚀 Tech Stack & Tools
+## 🚀 Tech Stack & Tools
 
 - 📊 **Power BI**, Excel (Advanced), DAX, Power Query  
 - 🐍 Python (Pandas, Matplotlib, basic scripting)
@@ -23,7 +23,7 @@ Currently, I lead the **InfluenceZ** portal, where I manage influencer campaigns
 - 💻 Google Sheets, Looker Studio
 - 🛠️ Project Management: JIRA, Trello
 
-### 📈 What I Do
+## 📈 What I Do
 
 - Design & develop automated **MIS dashboards** and reports
 - Translate raw data into actionable insights for stakeholders
@@ -31,19 +31,19 @@ Currently, I lead the **InfluenceZ** portal, where I manage influencer campaigns
 - Analyze campaign performance metrics for **influencer marketing**
 - Continuously learning Python and exploring data science techniques
 
-##### Projects
+## Projects
 
 ### **Blinkit Sales Dashboard**
 
 Link&nbsp;&nbsp;:&nbsp;&nbsp;[GitHub](https://github.com/VipinSoni-Git)
 
-### 🌱 Currently Learning
+## 🌱 Currently Learning
 
 - 🐍 Python for Data Analysis
 - 📊 Advanced DAX and Power BI data modeling
 - 🧠 Machine Learning fundamentals
 
-### 📫 Let's Connect
+## 📫 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/er-vipinsoni/)
 - 📧 mr.vipinsoniofficial@gmail.com
