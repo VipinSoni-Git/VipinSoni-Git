@@ -1,5 +1,3 @@
-<strong>
-
 <div align="center">
  
 <img src="https://github.com/VipinSoni-Git/VipinSoni-Git/blob/3d32c333a44354659b9e02a7c72a6346baba6b2e/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
