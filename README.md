@@ -5,19 +5,15 @@
 
 </div>
 
---
-
 ### 👨‍💻 About Me
 
 Hi 👋, I'm Vipin Soni
 
-Data Enthusiast | MIS & BI Professional | Power BI Developer | Python Learner | Influencer Marketing Strategist
+**Data Enthusiast | MIS & BI Professional | Power BI Developer | Python Learner | Influencer Marketing Strategist**
 
 I'm an experienced data and business intelligence professional with **7+ years of experience** in **MIS, reporting, and data analysis**. I specialize in building interactive dashboards using **Power BI** and streamlining reporting processes that drive decision-making.
 
 Currently, I lead the **InfluenceZ** portal, where I manage influencer campaigns, track KPIs, and bridge creative marketing with analytical insights.
-
----
 
 ### 🚀 Tech Stack & Tools
 
@@ -27,8 +23,6 @@ Currently, I lead the **InfluenceZ** portal, where I manage influencer campaigns
 - 💻 Google Sheets, Looker Studio
 - 🛠️ Project Management: JIRA, Trello
 
----
-
 ### 📈 What I Do
 
 - Design & develop automated **MIS dashboards** and reports
@@ -37,15 +31,11 @@ Currently, I lead the **InfluenceZ** portal, where I manage influencer campaigns
 - Analyze campaign performance metrics for **influencer marketing**
 - Continuously learning Python and exploring data science techniques
 
----
-
-## Projects
+##### Projects
 
 ### **Blinkit Sales Dashboard**
 
-Link&nbsp;&nbsp;: &nbsp;&nbsp;[GitHub](https://github.com/VipinSoni-Git)
-
----
+Link&nbsp;&nbsp;:&nbsp;&nbsp;[GitHub](https://github.com/VipinSoni-Git)
 
 ### 🌱 Currently Learning
 
@@ -53,14 +43,10 @@ Link&nbsp;&nbsp;: &nbsp;&nbsp;[GitHub](https://github.com/VipinSoni-Git)
 - 📊 Advanced DAX and Power BI data modeling
 - 🧠 Machine Learning fundamentals
 
----
-
 ### 📫 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/er-vipinsoni/)
 - 📧 mr.vipinsoniofficial@gmail.com
 - 🧰 [Check out my dashboards & code](https://github.com/VipinSoni-Git)
-
----
 
 > *"Turning data into stories that matter."*
