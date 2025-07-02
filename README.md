@@ -17,11 +17,11 @@ Currently, I lead the **InfluenceZ** portal, where I manage influencer campaigns
 
 ## 🚀 Tech Stack & Tools
 
-- 📊 **Power BI**, Excel (Advanced), DAX, Power Query  
-- 🐍 Python (Pandas, Matplotlib, basic scripting)
-- 📁 SQL (Basic querying for report integration)
-- 💻 Google Sheets, Looker Studio
-- 🛠️ Project Management: JIRA, Trello
+- 📊 **Power BI**, **Excel (Core)**, **DAX**, **Power Query**  
+- 🐍 **Python (Pandas, Matplotlib, basic scripting)**
+- 📁 **SQL (Basic querying for report integration)**
+- 💻 **Google Sheets, Looker Studio**
+- 🛠️ **Project Management: JIRA, Trello**
 
 ## 📈 What I Do
 
@@ -35,20 +35,22 @@ Currently, I lead the **InfluenceZ** portal, where I manage influencer campaigns
 
 ### **Blinkit Sales Performance Dashboard**
 
-◉ Problem Statement:
+◉ **Problem Statement:**
 - Analyze Blinkit's retail data to understand item-level sales trends, outlet performance, and customer preferences across locations.
 
-◉ Solution:
+◉ **Solution:**
 - Developed an interactive Power BI dashboard featuring KPIs, bar/pie/line charts, and slicers for outlet type, size, location, and item category. Visualized sales, fat content, outlet trends (2012–2022), and item distribution.
 
-◉ Use Case:
+◉ **Use Case:**
 - Helps in strategic decisions for inventory planning, outlet performance analysis, and market targeting based on data insights.
 
-◉ Feel free to explore the .pbix file or contact me for more such retail analytics projects!
+◉ **Feel free to explore the .pbix file or contact me for more such retail analytics projects!**
 
 Link&nbsp;&nbsp;:&nbsp;&nbsp;[GitHub](https://github.com/VipinSoni-Git)
 
-## 🌱 Currently Learning
+---
+
+### 🌱 Currently Learning
 
 - 🐍 Python for Data Analysis
 - 📊 Advanced DAX and Power BI data modeling
