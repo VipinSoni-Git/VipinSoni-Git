@@ -50,7 +50,7 @@ Link&nbsp;&nbsp;:&nbsp;&nbsp;[GitHub](https://github.com/VipinSoni-Git)
 
 ---
 
-### 🌱 Currently Learning
+## 🌱 Currently Learning
 
 - 🐍 Python for Data Analysis
 - 📊 Advanced DAX and Power BI data modeling
