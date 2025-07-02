@@ -33,7 +33,18 @@ Currently, I lead the **InfluenceZ** portal, where I manage influencer campaigns
 
 ## Projects
 
-### **Blinkit Sales Dashboard**
+### **Blinkit Sales Performance Dashboard**
+
+◉ Problem Statement:
+- Analyze Blinkit's retail data to understand item-level sales trends, outlet performance, and customer preferences across locations.
+
+◉ Solution:
+- Developed an interactive Power BI dashboard featuring KPIs, bar/pie/line charts, and slicers for outlet type, size, location, and item category. Visualized sales, fat content, outlet trends (2012–2022), and item distribution.
+
+◉ Use Case:
+- Helps in strategic decisions for inventory planning, outlet performance analysis, and market targeting based on data insights.
+
+◉ Feel free to explore the .pbix file or contact me for more such retail analytics projects!
 
 Link&nbsp;&nbsp;:&nbsp;&nbsp;[GitHub](https://github.com/VipinSoni-Git)
 
