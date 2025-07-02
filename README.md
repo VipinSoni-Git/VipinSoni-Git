@@ -1,5 +1,5 @@
 <div>
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300"> &nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="30"> &nbsp;
 👨‍💻 About Me Hi 👋, I'm Vipin Soni **Data Enthusiast | MIS & BI Professional | Power BI Developer | Python Learner | Influencer Marketing Strategist**
 I'm an experienced data and business intelligence professional with **7+ years of experience** in **MIS, reporting, and data analysis**. I specialize in building interactive dashboards using **Power BI** and streamlining reporting processes that drive decision-making.
 Currently, I lead the **InfluenceZ** portal, where I manage influencer campaigns, track KPIs, and bridge creative marketing with analytical insights.
