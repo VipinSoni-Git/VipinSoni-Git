@@ -61,6 +61,5 @@ Link&nbsp;:&nbsp;[GitHub](https://github.com/VipinSoni-Git)
 
 ## TEST
 <div style="display: flex; align-items: center;">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" height="20" alt="Automating_Repetitive_Tasks" style="margin-right: 58px;">
-  <span style="font-size: 14px;">Equivalent_Passage87</span>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">   &nbsp;Equivalent_Passage87
 </div>
