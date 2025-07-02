@@ -64,4 +64,7 @@ Link&nbsp;:&nbsp;[GitHub](https://github.com/VipinSoni-Git)
 
 
 ## TEST
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="15"/>&nbsp;Automating repetitive tasks using Python
+<p align="center" style="display: inline-flex; align-items: center;">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" style="margin-right: 8px;"/>
+  <span>Automating repetitive tasks using Python</span>
+</p>
