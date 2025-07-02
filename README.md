@@ -1,9 +1,19 @@
-<div>
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="30"> &nbsp;
-👨‍💻 About Me Hi 👋, I'm Vipin Soni **Data Enthusiast | MIS & BI Professional | Power BI Developer | Python Learner | Influencer Marketing Strategist**
-I'm an experienced data and business intelligence professional with **7+ years of experience** in **MIS, reporting, and data analysis**. I specialize in building interactive dashboards using **Power BI** and streamlining reporting processes that drive decision-making.
-Currently, I lead the **InfluenceZ** portal, where I manage influencer campaigns, track KPIs, and bridge creative marketing with analytical insights.
+<div align="center">
+ 
+<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="1580">
+<br><br>
+
 </div>
+
+## 👨‍💻 About Me
+
+Hi 👋, I'm Vipin Soni
+
+**Data Enthusiast | MIS & BI Professional | Power BI Developer | Python Learner | Influencer Marketing Strategist**
+
+I'm an experienced data and business intelligence professional with **7+ years of experience** in **MIS, reporting, and data analysis**. I specialize in building interactive dashboards using **Power BI** and streamlining reporting processes that drive decision-making.
+
+Currently, I lead the **InfluenceZ** portal, where I manage influencer campaigns, track KPIs, and bridge creative marketing with analytical insights.
 
 ## 🚀 Tech Stack & Tools
 
@@ -51,11 +61,3 @@ Link&nbsp;:&nbsp;[GitHub](https://github.com/VipinSoni-Git)
 - 🧰 [Check out my dashboards & code](https://github.com/VipinSoni-Git)
 
 > *"Turning data into stories that matter."*
-
-
-## TEST
-<div style="display: flex; align-items: center;">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">&nbsp;&nbsp;I'm Vipin SoniData Enthusiast | MIS & BI Professional | Power BI Developer | Python Learner | Influencer Marketing Strategist
-I'm an experienced data and business intelligence professional with 7+ years of experience in MIS, reporting, and data analysis. I specialize in building interactive dashboards using Power BI and streamlining reporting processes that drive decision-making.
-Currently, I lead the InfluenceZ portal, where I manage influencer campaigns, track KPIs, and bridge creative marketing with analytical insights.
-</div>
