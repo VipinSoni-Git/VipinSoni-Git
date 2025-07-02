@@ -1,6 +1,6 @@
 <div align="center">
  
-<img src="https://github.com/VipinSoni-Git/VipinSoni-Git/blob/3d32c333a44354659b9e02a7c72a6346baba6b2e/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+<img src="https://github.com/VipinSoni-Git/VipinSoni-Git/blob/aff6959e641892d89210a5193196d5af9293e6e4/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="1584" height="386" alt="Data Analyst Banner"/>
 
 </div>
 
