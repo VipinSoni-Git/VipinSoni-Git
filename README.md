@@ -1,6 +1,7 @@
 <div align="center">
  
-<img src="https://github.com/VipinSoni-Git/VipinSoni-Git/blob/aff6959e641892d89210a5193196d5af9293e6e4/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="1584" height="386" alt="Data Analyst Banner"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
+<br><br>
 
 </div>
 
