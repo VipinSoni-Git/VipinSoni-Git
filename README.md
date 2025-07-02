@@ -46,7 +46,7 @@ Currently, I lead the **InfluenceZ** portal, where I manage influencer campaigns
 
 ◉ **Feel free to explore the .pbix file or contact me for more such retail analytics projects!**
 
-Link&nbsp;:&nbsp;[GitHub](https://github.com/VipinSoni-Git)
+Link:&nbsp;[GitHub](https://github.com/VipinSoni-Git)
 
 ## 🌱 Currently Learning
 
