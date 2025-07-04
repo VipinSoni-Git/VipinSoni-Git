@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
  
 <img src="https://github.com/user-attachments/assets/cf41c271-9de9-42c8-9f62-f57c4f88abf5">
 <br><br>
@@ -56,7 +56,7 @@ Link&nbsp;:&nbsp;[GitHub](https://github.com/VipinSoni-Git)
 
 ## 📫 Let's Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/er-vipinsoni/)
+- <img src="https://github.com/user-attachments/assets/9dbab236-1169-4e4d-9696-b4033868e4a7" width="30" align="center"/> [Linkedin](https://www.linkedin.com/in/er-vipinsoni/)
 - 📧 mr.vipinsoniofficial@gmail.com
 - 🧰 [Check out my dashboards & code](https://github.com/VipinSoni-Git)
 
