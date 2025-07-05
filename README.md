@@ -1,10 +1,24 @@
- <div align="center">
- 
-<img src="https://github.com/user-attachments/assets/cf41c271-9de9-42c8-9f62-f57c4f88abf5">
-<br><br>
-
+<!--Image-->
+<div align="center">
+  <a href="https://github.com/VipinSoni-Git/" title="Welcome to Vipin's GitHub"><img src="https://github.com/user-attachments/assets/cf41c271-9de9-42c8-9f62-f57c4f88abf5"></a>
+    <br><br>
 </div>
 
+<!--RESUME with DownloadButton-->
+<a href="https://drive.google.com/file/d/1UotmXV9abEQW6C73ZBbS8JVlF3Zsr9fu/view?usp=drive_link" title="Resume">
+ <img src="https://github.com/user-attachments/assets/c2bb4e3b-3ba6-40d1-957a-80bf5b3e498a" width=138 align="right"/>
+</a>
+
+<!--Anchor Menu-->
+<div align="center">
+  <a href="#-about-me">About</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-tech-stack--tools">Skills</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-what-i-do">Focus</a>&nbsp;&nbsp;&nbsp;
+  <a href="#projects">Projects</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-currently-learning">Skills in Progress</a>
+</div>
+ 
+ 
 ## 👨‍💻 About Me
 
 Hi 👋, I'm Vipin Soni
@@ -57,7 +71,7 @@ Link&nbsp;:&nbsp;[GitHub](https://github.com/VipinSoni-Git/Blinkit-Sales-Dashboa
 ## 📫 Let's Connect
 
 - <img src="https://github.com/user-attachments/assets/9dbab236-1169-4e4d-9696-b4033868e4a7" width="30" align="center"/> [Linkedin](https://www.linkedin.com/in/er-vipinsoni/)
-- 📧 mr.vipinsoniofficial@gmail.com
-- 🧰 [Check out my dashboards & code](https://github.com/VipinSoni-Git)
+- &nbsp;📧 mr.vipinsoniofficial@gmail.com
+- &nbsp;<img src="https://github.com/user-attachments/assets/8df5bde8-e669-40b4-80d2-a09c36752cd6" width="18" align="center"/>&nbsp;&nbsp;[Check out my dashboards & code](https://github.com/VipinSoni-Git)
 
 > *"Turning data into stories that matter."*
