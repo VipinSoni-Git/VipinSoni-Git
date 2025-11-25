@@ -47,20 +47,48 @@ Currently, I lead the **InfluenceZ** portal, where I manage influencer campaigns
 
 ## Projects
 
-### **Blinkit Sales Performance Dashboard**
+### Power BI
 
-◉ **Problem Statement:**
-- Analyze Blinkit's retail data to understand item-level sales trends, outlet performance, and customer preferences across locations.
 
-◉ **Solution:**
-- Developed an interactive Power BI dashboard featuring KPIs, bar/pie/line charts, and slicers for outlet type, size, location, and item category. Visualized sales, fat content, outlet trends (2012–2022), and item distribution.
+<details>
+  <summary><strong>1. Blinkit Sales Performance Dashboard</strong></summary><br>
 
-◉ **Use Case:**
-- Helps in strategic decisions for inventory planning, outlet performance analysis, and market targeting based on data insights.
+>[Project Repository Link](https://github.com/VipinSoni-Git/Blinkit-Sales-Dashboard)
 
-◉ **Feel free to explore the .pbix file or contact me for more such retail analytics projects!**
+◉ <strong>Problem Statement:</strong>  
+- Analyzed Blinkit’s retail data to identify item-level sales trends, outlet performance, and customer preferences.
 
-Link&nbsp;:&nbsp;[GitHub](https://github.com/VipinSoni-Git/Blinkit-Sales-Dashboard)
+◉ <strong>Solution:</strong>  
+- Developed an interactive Power BI dashboard featuring KPIs, bar/pie/line charts, and slicers (by outlet type, size, location, and item category). Visualized sales patterns, fat content, outlet trends (2012–2022), and item distribution.
+
+◉ <strong>Use Case:</strong>  
+- Enables data-driven decisions for inventory planning, outlet performance evaluation, and targeted marketing.
+
+◉ <strong>Explore:</strong>  
+- Power BI .pbix file available on [GitHub](https://github.com/VipinSoni-Git/Blinkit-Sales-Dashboard)
+
+</details>
+
+
+### SQL
+
+<details>
+<summary><strong> 1. SQL | SaleSight Intelligence – A Retail Sales Analysis Project</strong></summary><br>
+
+>[Project Repository Link](https://github.com/VipinSoni-Git/SaleSight-Intelligence-SQL-Project-P1)
+
+◉ <strong>Problem Statement:</strong>
+- Needed to analyze retail sales performance, customer behavior, and profitability using a clean SQL workflow.
+
+◉ <strong>Solution:</strong>
+- Built a fully structured PostgreSQL project with complete EDA, 10 business case studies, and detailed insights into customer segments, revenue drivers, and category performance.
+
+◉ <strong>Use Case:</strong>
+- Ideal for understanding business performance, identifying high-value segments, and supporting BI/dashboard development.
+
+◉ <strong>Explore:</strong>
+- Full SQL scripts and documentation available on [GitHub](https://github.com/VipinSoni-Git/SaleSight-Intelligence-SQL-Project-P1).
+</details>
 
 ## 🌱 Currently Learning
 
